@@ -1,0 +1,7 @@
+pre {
+    background-color: #f7f7f7;
+}
+
+pre code {
+    background-color: transparent !important;
+}

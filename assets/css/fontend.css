@@ -1,0 +1,126 @@
+.nav-document:not(:first-child) {
+    margin-top: 5em;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+}
+
+.nav-document h3 {
+    margin-top: 0 !important;
+    padding: 0 !important;
+}
+
+.list-document ul,
+.list-document li,
+.nav-document ul,
+.nav-document li {
+    margin: 0 !important;
+    padding: 0 !important;
+    list-style: none;
+    font-size: small;
+}
+
+.nav-document li a,
+.list-document li a {
+    color: inherit;
+    font-size: inherit;
+    font-weight: normal;
+}
+
+.list-document li:not(:last-child) {
+    margin-bottom: 0.5em !important;
+}
+
+.list-document li.page_item_has_children ul,
+.nav-document li.page_item_has_children ul {
+    margin-left: 2em !important;
+}
+
+.nav-document li.page_item_has_children > a i::before {
+    content: "\f07b";
+}
+
+.nav-document li.current_page_parent > a,
+.nav-document li.current_page_item > a {
+    font-weight: bold;
+}
+
+.list-document:after {
+    clear: both;
+    content: '';
+    display: table;
+}
+
+.list-document li {
+    width: 200px;
+    float: left;
+}
+
+.html-demo iframe {
+    /* Mesh effect */
+    background-image: linear-gradient(to right, #eee 1px, transparent 1px),
+    linear-gradient(to bottom, #eee 1px, transparent 1px);
+
+    /* Grid size */
+    background-size: 10px 10px;
+
+    /* Set right and bottom borders */
+    border: 1px solid #eee;
+    border-left: none;
+    border-top: none;
+    box-sizing: border-box;
+    padding: 10px;
+    margin-bottom: 0 !important;
+}
+
+.html-demo summary {
+    background: #eee;
+    height: 30px;
+    line-height: 30px;
+    padding-left: 10px;
+}
+
+.html-demo details {
+    border: 1px solid #eee;
+    margin-bottom: 10px;
+}
+
+.html-demo details pre {
+    margin: 0;
+}
+
+.list-category > ul,
+.list-category > li,
+.list-catalog ul,
+.list-catalog li {
+    margin: 0 !important;
+    padding: 0 !important;
+    list-style: none;
+    font-size: small;
+}
+
+.list-category li a,
+.list-catalog li a {
+    color: inherit;
+    font-size: inherit;
+    font-weight: normal;
+}
+
+.list-category > li > a {
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.list-category > li > a:before {
+    font-family: "Font Awesome 5 Free";
+    content: '\f1c6';
+    margin-right: 0.2em;
+}
+
+.list-category li:not(:last-child) {
+    margin-bottom: 0.5em !important;
+}
+
+
+.list-catalog li.current_item > a {
+    font-weight: bold;
+}

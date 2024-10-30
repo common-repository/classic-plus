@@ -1,0 +1,644 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: ClassicPlus To Enable Classic Functions\n"
+"POT-Creation-Date: 2021-12-09 23:23+0800\n"
+"PO-Revision-Date: 2021-12-09 23:23+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: classic-plus.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/class.ajax.php:63 tags/1.0.0/includes/class.ajax.php:63
+#: tags/1.0.2/includes/class.ajax.php:63 tags/1.0.3/includes/class.ajax.php:63
+#: tags/1.0.4/includes/class.ajax.php:63 trunk/includes/class.ajax.php:63
+msgid "Sorry, you are not allowed to delete this post."
+msgstr ""
+
+#: includes/class.ajax.php:123 tags/1.0.0/includes/class.ajax.php:123
+#: tags/1.0.2/includes/class.ajax.php:123
+#: tags/1.0.3/includes/class.ajax.php:123
+#: tags/1.0.4/includes/class.ajax.php:123 trunk/includes/class.ajax.php:123
+msgid ""
+"You attempted to edit an item that doesn&#8217;t exist. Perhaps it was "
+"deleted?"
+msgstr ""
+
+#: includes/class.document.php:36 includes/class.document.php:216
+#: tags/1.0.0/includes/class.document.php:36
+#: tags/1.0.0/includes/class.document.php:216 tags/1.0.0/views/documents.php:3
+#: tags/1.0.2/includes/class.document.php:36
+#: tags/1.0.2/includes/class.document.php:216 tags/1.0.2/views/documents.php:3
+#: tags/1.0.3/includes/class.document.php:36
+#: tags/1.0.3/includes/class.document.php:216 tags/1.0.3/views/documents.php:3
+#: tags/1.0.4/includes/class.document.php:36
+#: tags/1.0.4/includes/class.document.php:216 tags/1.0.4/views/documents.php:3
+#: trunk/includes/class.document.php:36 trunk/includes/class.document.php:216
+#: trunk/views/documents.php:3 views/documents.php:3
+msgid "Documentation"
+msgstr ""
+
+#: includes/class.document.php:59 tags/1.0.0/includes/class.document.php:59
+#: tags/1.0.2/includes/class.document.php:59
+#: tags/1.0.3/includes/class.document.php:59
+#: tags/1.0.4/includes/class.document.php:59
+#: trunk/includes/class.document.php:59
+msgid "Publish"
+msgstr ""
+
+#: includes/class.document.php:62 tags/1.0.0/includes/class.document.php:62
+#: tags/1.0.2/includes/class.document.php:62
+#: tags/1.0.3/includes/class.document.php:62
+#: tags/1.0.4/includes/class.document.php:62
+#: trunk/includes/class.document.php:62
+msgid "Enter title here"
+msgstr ""
+
+#: includes/class.document.php:63 tags/1.0.0/includes/class.document.php:63
+#: tags/1.0.2/includes/class.document.php:63
+#: tags/1.0.3/includes/class.document.php:63
+#: tags/1.0.4/includes/class.document.php:63
+#: trunk/includes/class.document.php:63
+msgid "Are you sure?"
+msgstr ""
+
+#: includes/class.document.php:64 tags/1.0.0/includes/class.document.php:64
+#: tags/1.0.2/includes/class.document.php:64
+#: tags/1.0.3/includes/class.document.php:64
+#: tags/1.0.4/includes/class.document.php:64
+#: trunk/includes/class.document.php:64
+msgid "Cancel"
+msgstr ""
+
+#: includes/class.document.php:65 tags/1.0.0/includes/class.document.php:65
+#: tags/1.0.2/includes/class.document.php:65
+#: tags/1.0.3/includes/class.document.php:65
+#: tags/1.0.4/includes/class.document.php:65
+#: trunk/includes/class.document.php:65
+msgid "Yes"
+msgstr ""
+
+#: includes/class.document.php:66 tags/1.0.0/includes/class.document.php:66
+#: tags/1.0.2/includes/class.document.php:66
+#: tags/1.0.3/includes/class.document.php:66
+#: tags/1.0.4/includes/class.document.php:66
+#: trunk/includes/class.document.php:66
+msgid "Yes, delete it!"
+msgstr ""
+
+#: includes/class.document.php:68 tags/1.0.0/includes/class.document.php:68
+#: tags/1.0.2/includes/class.document.php:68
+#: tags/1.0.3/includes/class.document.php:68
+#: tags/1.0.4/includes/class.document.php:68
+#: trunk/includes/class.document.php:68
+msgid "Enter document title"
+msgstr ""
+
+#: includes/class.document.php:69 tags/1.0.0/includes/class.document.php:69
+#: tags/1.0.2/includes/class.document.php:69
+#: tags/1.0.3/includes/class.document.php:69
+#: tags/1.0.4/includes/class.document.php:69
+#: trunk/includes/class.document.php:69
+msgid ""
+"Are you sure to delete the entire document? Sections and articles inside "
+"this document will be deleted too!"
+msgstr ""
+
+#: includes/class.document.php:71 tags/1.0.0/includes/class.document.php:71
+#: tags/1.0.2/includes/class.document.php:71
+#: tags/1.0.3/includes/class.document.php:71
+#: tags/1.0.4/includes/class.document.php:71
+#: trunk/includes/class.document.php:71
+msgid "Enter section title"
+msgstr ""
+
+#: includes/class.document.php:72 tags/1.0.0/includes/class.document.php:72
+#: tags/1.0.2/includes/class.document.php:72
+#: tags/1.0.3/includes/class.document.php:72
+#: tags/1.0.4/includes/class.document.php:72
+#: trunk/includes/class.document.php:72
+msgid ""
+"Are you sure to delete the entire section? Articles inside this section will "
+"be deleted too!"
+msgstr ""
+
+#: includes/class.document.php:74 tags/1.0.0/includes/class.document.php:74
+#: tags/1.0.2/includes/class.document.php:74
+#: tags/1.0.3/includes/class.document.php:74
+#: tags/1.0.4/includes/class.document.php:74
+#: trunk/includes/class.document.php:74
+msgid "Enter article title"
+msgstr ""
+
+#: includes/class.document.php:75 tags/1.0.0/includes/class.document.php:75
+#: tags/1.0.2/includes/class.document.php:75
+#: tags/1.0.3/includes/class.document.php:75
+#: tags/1.0.4/includes/class.document.php:75
+#: trunk/includes/class.document.php:75
+msgid "Are you sure to delete the article?"
+msgstr ""
+
+#: includes/class.document.php:77 tags/1.0.0/includes/class.document.php:77
+#: tags/1.0.2/includes/class.document.php:77
+#: tags/1.0.3/includes/class.document.php:77
+#: tags/1.0.4/includes/class.document.php:77
+#: trunk/includes/class.document.php:77
+msgid "This posts has been deleted"
+msgstr ""
+
+#: includes/class.document.php:85 tags/1.0.0/includes/class.document.php:85
+#: tags/1.0.2/includes/class.document.php:85
+#: tags/1.0.3/includes/class.document.php:85
+#: tags/1.0.4/includes/class.document.php:85
+#: trunk/includes/class.document.php:85
+msgctxt "add new from admin bar"
+msgid "Post"
+msgstr ""
+
+#. translators: %s: Post title.
+#: includes/class.front-end.php:30 tags/1.0.0/includes/class.front-end.php:30
+#: tags/1.0.2/includes/class.front-end.php:30
+#: tags/1.0.3/includes/class.front-end.php:30
+#: tags/1.0.4/includes/class.front-end.php:30
+#: trunk/includes/class.front-end.php:30
+#, php-format
+msgid "Continue reading %s"
+msgstr ""
+
+#: includes/class.front-end.php:76 tags/1.0.0/includes/class.front-end.php:76
+#: tags/1.0.2/includes/class.front-end.php:76
+#: tags/1.0.3/includes/class.front-end.php:76
+#: tags/1.0.4/includes/class.front-end.php:76
+#: trunk/includes/class.front-end.php:76
+msgid "Source code preview"
+msgstr ""
+
+#: includes/class.front-end.php:77 tags/1.0.0/includes/class.front-end.php:77
+#: tags/1.0.2/includes/class.front-end.php:77
+#: tags/1.0.3/includes/class.front-end.php:77
+#: tags/1.0.4/includes/class.front-end.php:77
+#: trunk/includes/class.front-end.php:77
+msgid "View source code"
+msgstr ""
+
+#: includes/class.login.php:68 tags/1.0.0/includes/class.login.php:68
+#: tags/1.0.2/includes/class.login.php:68
+#: tags/1.0.3/includes/class.login.php:68
+#: tags/1.0.4/includes/class.login.php:68 trunk/includes/class.login.php:68
+msgid "<strong>ERROR</strong>: Too many retries."
+msgstr ""
+
+#: includes/class.settings.php:13 tags/1.0.0/includes/class.settings.php:13
+#: tags/1.0.2/includes/class.settings.php:13
+#: tags/1.0.3/includes/class.settings.php:13
+#: tags/1.0.4/includes/class.settings.php:13
+#: trunk/includes/class.settings.php:13
+msgid "Basic Settings"
+msgstr ""
+
+#: includes/class.settings.php:17 tags/1.0.0/includes/class.settings.php:17
+#: tags/1.0.2/includes/class.settings.php:17
+#: tags/1.0.3/includes/class.settings.php:17
+#: tags/1.0.4/includes/class.settings.php:17
+#: trunk/includes/class.settings.php:17
+msgid "Post Content"
+msgstr ""
+
+#: includes/class.settings.php:21 tags/1.0.0/includes/class.settings.php:21
+#: tags/1.0.2/includes/class.settings.php:21
+#: tags/1.0.3/includes/class.settings.php:21
+#: tags/1.0.4/includes/class.settings.php:21
+#: trunk/includes/class.settings.php:21
+msgid "Login Limit"
+msgstr ""
+
+#: includes/class.settings.php:25 tags/1.0.0/includes/class.settings.php:25
+#: tags/1.0.2/includes/class.settings.php:25
+#: tags/1.0.3/includes/class.settings.php:25
+#: tags/1.0.4/includes/class.settings.php:25
+#: trunk/includes/class.settings.php:25
+msgid "SMTP Settings"
+msgstr ""
+
+#: includes/class.settings.php:42 tags/1.0.0/includes/class.settings.php:42
+#: tags/1.0.2/includes/class.settings.php:42
+#: tags/1.0.3/includes/class.settings.php:42
+#: tags/1.0.4/includes/class.settings.php:42
+#: trunk/includes/class.settings.php:42
+msgid "Please select a highlight style"
+msgstr ""
+
+#: includes/class.settings.php:52 tags/1.0.0/includes/class.settings.php:52
+#: tags/1.0.2/includes/class.settings.php:52
+#: tags/1.0.3/includes/class.settings.php:52
+#: tags/1.0.4/includes/class.settings.php:52
+#: trunk/includes/class.settings.php:52
+msgid "Register Document"
+msgstr ""
+
+#: includes/class.settings.php:53 tags/1.0.0/includes/class.settings.php:53
+#: tags/1.0.2/includes/class.settings.php:53
+#: tags/1.0.3/includes/class.settings.php:53
+#: tags/1.0.4/includes/class.settings.php:53
+#: trunk/includes/class.settings.php:53
+msgid ""
+"Register hierarchical posts to build documents, two short codes: "
+"<code>[list_document]</code> and <code>[nav_document]</code>"
+msgstr ""
+
+#: includes/class.settings.php:58 tags/1.0.0/includes/class.settings.php:58
+#: tags/1.0.2/includes/class.settings.php:58
+#: tags/1.0.3/includes/class.settings.php:58
+#: tags/1.0.4/includes/class.settings.php:58
+#: trunk/includes/class.settings.php:58
+msgid "Link Manager"
+msgstr ""
+
+#: includes/class.settings.php:59 includes/class.settings.php:65
+#: includes/class.settings.php:71 includes/class.settings.php:134
+#: tags/1.0.0/includes/class.settings.php:59
+#: tags/1.0.0/includes/class.settings.php:65
+#: tags/1.0.0/includes/class.settings.php:71
+#: tags/1.0.0/includes/class.settings.php:134
+#: tags/1.0.2/includes/class.settings.php:59
+#: tags/1.0.2/includes/class.settings.php:65
+#: tags/1.0.2/includes/class.settings.php:71
+#: tags/1.0.2/includes/class.settings.php:134
+#: tags/1.0.3/includes/class.settings.php:59
+#: tags/1.0.3/includes/class.settings.php:65
+#: tags/1.0.3/includes/class.settings.php:71
+#: tags/1.0.3/includes/class.settings.php:134
+#: tags/1.0.4/includes/class.settings.php:59
+#: tags/1.0.4/includes/class.settings.php:65
+#: tags/1.0.4/includes/class.settings.php:71
+#: tags/1.0.4/includes/class.settings.php:134
+#: trunk/includes/class.settings.php:59 trunk/includes/class.settings.php:65
+#: trunk/includes/class.settings.php:71 trunk/includes/class.settings.php:134
+msgid "Enable"
+msgstr ""
+
+#: includes/class.settings.php:64 tags/1.0.0/includes/class.settings.php:64
+#: tags/1.0.2/includes/class.settings.php:64
+#: tags/1.0.3/includes/class.settings.php:64
+#: tags/1.0.4/includes/class.settings.php:64
+#: trunk/includes/class.settings.php:64
+msgid "Enable Classic Editor"
+msgstr ""
+
+#: includes/class.settings.php:70 tags/1.0.0/includes/class.settings.php:70
+#: tags/1.0.2/includes/class.settings.php:70
+#: tags/1.0.3/includes/class.settings.php:70
+#: tags/1.0.4/includes/class.settings.php:70
+#: trunk/includes/class.settings.php:70
+msgid "Enable Classic Widgets"
+msgstr ""
+
+#: includes/class.settings.php:76 tags/1.0.0/includes/class.settings.php:76
+#: tags/1.0.2/includes/class.settings.php:76
+#: tags/1.0.3/includes/class.settings.php:76
+#: tags/1.0.4/includes/class.settings.php:76
+#: trunk/includes/class.settings.php:76
+msgid "Gravatar Mirror Server"
+msgstr ""
+
+#: includes/class.settings.php:80 tags/1.0.0/includes/class.settings.php:80
+#: tags/1.0.2/includes/class.settings.php:80
+#: tags/1.0.3/includes/class.settings.php:80
+#: tags/1.0.4/includes/class.settings.php:80
+#: trunk/includes/class.settings.php:80
+msgid "Please select a mirror server"
+msgstr ""
+
+#: includes/class.settings.php:81 tags/1.0.0/includes/class.settings.php:81
+#: tags/1.0.2/includes/class.settings.php:81
+#: tags/1.0.3/includes/class.settings.php:81
+#: tags/1.0.4/includes/class.settings.php:81
+#: trunk/includes/class.settings.php:81
+msgid "cravatar.cn"
+msgstr ""
+
+#: includes/class.settings.php:82 tags/1.0.0/includes/class.settings.php:82
+#: tags/1.0.2/includes/class.settings.php:82
+#: tags/1.0.3/includes/class.settings.php:82
+#: tags/1.0.4/includes/class.settings.php:82
+#: trunk/includes/class.settings.php:82
+msgid "gravatar.loli.net"
+msgstr ""
+
+#: includes/class.settings.php:83 tags/1.0.0/includes/class.settings.php:83
+#: tags/1.0.2/includes/class.settings.php:83
+#: tags/1.0.3/includes/class.settings.php:83
+#: tags/1.0.4/includes/class.settings.php:83
+#: trunk/includes/class.settings.php:83
+msgid "sdn.geekzu.org"
+msgstr ""
+
+#: includes/class.settings.php:91 tags/1.0.0/includes/class.settings.php:91
+#: tags/1.0.2/includes/class.settings.php:91
+#: tags/1.0.3/includes/class.settings.php:91
+#: tags/1.0.4/includes/class.settings.php:91
+#: trunk/includes/class.settings.php:91
+msgid "Archive Show Excerpt"
+msgstr ""
+
+#: includes/class.settings.php:92 tags/1.0.0/includes/class.settings.php:92
+#: tags/1.0.2/includes/class.settings.php:92
+#: tags/1.0.3/includes/class.settings.php:92
+#: tags/1.0.4/includes/class.settings.php:92
+#: trunk/includes/class.settings.php:92
+msgid "In archive and home page display the post excerpt"
+msgstr ""
+
+#: includes/class.settings.php:97 tags/1.0.0/includes/class.settings.php:97
+#: tags/1.0.2/includes/class.settings.php:97
+#: tags/1.0.3/includes/class.settings.php:97
+#: tags/1.0.4/includes/class.settings.php:97
+#: trunk/includes/class.settings.php:97
+msgid "Split Protected Posts"
+msgstr ""
+
+#: includes/class.settings.php:98 tags/1.0.0/includes/class.settings.php:98
+#: tags/1.0.2/includes/class.settings.php:98
+#: tags/1.0.3/includes/class.settings.php:98
+#: tags/1.0.4/includes/class.settings.php:98
+#: trunk/includes/class.settings.php:98
+msgid ""
+"Password protected posts only the content after <code>&lt;--more--&gt;</"
+"code> require password"
+msgstr ""
+
+#: includes/class.settings.php:103 tags/1.0.0/includes/class.settings.php:103
+#: tags/1.0.2/includes/class.settings.php:103
+#: tags/1.0.3/includes/class.settings.php:103
+#: tags/1.0.4/includes/class.settings.php:103
+#: trunk/includes/class.settings.php:103
+msgid "Html Code Demo"
+msgstr ""
+
+#: includes/class.settings.php:104 tags/1.0.0/includes/class.settings.php:104
+#: tags/1.0.2/includes/class.settings.php:104
+#: tags/1.0.3/includes/class.settings.php:104
+#: tags/1.0.4/includes/class.settings.php:104
+#: trunk/includes/class.settings.php:104
+msgid ""
+"Enable, Use vuejs and <code>&lt;div class=\"html-demo\"&gt;&lt;/div&gt;</"
+"code> to preview html code"
+msgstr ""
+
+#: includes/class.settings.php:109 tags/1.0.0/includes/class.settings.php:109
+#: tags/1.0.2/includes/class.settings.php:109
+#: tags/1.0.3/includes/class.settings.php:109
+#: tags/1.0.4/includes/class.settings.php:109
+#: trunk/includes/class.settings.php:109
+msgid "Highlight Style"
+msgstr ""
+
+#: includes/class.settings.php:116 tags/1.0.0/includes/class.settings.php:116
+#: tags/1.0.2/includes/class.settings.php:116
+#: tags/1.0.3/includes/class.settings.php:116
+#: tags/1.0.4/includes/class.settings.php:116
+#: trunk/includes/class.settings.php:116
+msgid "Img Src Prefix"
+msgstr ""
+
+#: includes/class.settings.php:117 tags/1.0.0/includes/class.settings.php:117
+#: tags/1.0.2/includes/class.settings.php:117
+#: tags/1.0.3/includes/class.settings.php:117
+#: tags/1.0.4/includes/class.settings.php:117
+#: trunk/includes/class.settings.php:117
+msgid "Original prefix, Use regular expression"
+msgstr ""
+
+#: includes/class.settings.php:123 tags/1.0.0/includes/class.settings.php:123
+#: tags/1.0.2/includes/class.settings.php:123
+#: tags/1.0.3/includes/class.settings.php:123
+#: tags/1.0.4/includes/class.settings.php:123
+#: trunk/includes/class.settings.php:123
+msgid "Img url prefix is temporarily replaced before output"
+msgstr ""
+
+#: includes/class.settings.php:124 tags/1.0.0/includes/class.settings.php:124
+#: tags/1.0.2/includes/class.settings.php:124
+#: tags/1.0.3/includes/class.settings.php:124
+#: tags/1.0.4/includes/class.settings.php:124
+#: trunk/includes/class.settings.php:124
+msgid "Replace prefix"
+msgstr ""
+
+#: includes/class.settings.php:133 tags/1.0.0/includes/class.settings.php:133
+#: tags/1.0.2/includes/class.settings.php:133
+#: tags/1.0.3/includes/class.settings.php:133
+#: tags/1.0.4/includes/class.settings.php:133
+#: trunk/includes/class.settings.php:133
+msgid "Limit Login Attempts"
+msgstr ""
+
+#: includes/class.settings.php:139 tags/1.0.0/includes/class.settings.php:139
+#: tags/1.0.2/includes/class.settings.php:139
+#: tags/1.0.3/includes/class.settings.php:139
+#: tags/1.0.4/includes/class.settings.php:139
+#: trunk/includes/class.settings.php:139
+msgid "Login Attempts Retries"
+msgstr ""
+
+#: includes/class.settings.php:140 tags/1.0.0/includes/class.settings.php:140
+#: tags/1.0.2/includes/class.settings.php:140
+#: tags/1.0.3/includes/class.settings.php:140
+#: tags/1.0.4/includes/class.settings.php:140
+#: trunk/includes/class.settings.php:140
+msgid "Number of retries allowed "
+msgstr ""
+
+#: includes/class.settings.php:149 tags/1.0.0/includes/class.settings.php:149
+#: tags/1.0.2/includes/class.settings.php:149
+#: tags/1.0.3/includes/class.settings.php:149
+#: tags/1.0.4/includes/class.settings.php:149
+#: trunk/includes/class.settings.php:149
+msgid "Login Time Diff"
+msgstr ""
+
+#: includes/class.settings.php:150 tags/1.0.0/includes/class.settings.php:150
+#: tags/1.0.2/includes/class.settings.php:150
+#: tags/1.0.3/includes/class.settings.php:150
+#: tags/1.0.4/includes/class.settings.php:150
+#: trunk/includes/class.settings.php:150
+msgid "Time diff of retries allowed, Unit: <b>minutes</b> "
+msgstr ""
+
+#: includes/class.settings.php:162 tags/1.0.0/includes/class.settings.php:162
+#: tags/1.0.2/includes/class.settings.php:162
+#: tags/1.0.3/includes/class.settings.php:162
+#: tags/1.0.4/includes/class.settings.php:162
+#: trunk/includes/class.settings.php:162
+msgid "From Email Address"
+msgstr ""
+
+#: includes/class.settings.php:168 tags/1.0.0/includes/class.settings.php:168
+#: tags/1.0.2/includes/class.settings.php:168
+#: tags/1.0.3/includes/class.settings.php:168
+#: tags/1.0.4/includes/class.settings.php:168
+#: trunk/includes/class.settings.php:168
+msgid "From Name"
+msgstr ""
+
+#: includes/class.settings.php:175 tags/1.0.0/includes/class.settings.php:175
+#: tags/1.0.2/includes/class.settings.php:175
+#: tags/1.0.3/includes/class.settings.php:175
+#: tags/1.0.4/includes/class.settings.php:175
+#: trunk/includes/class.settings.php:175
+msgid "SMTP Host"
+msgstr ""
+
+#: includes/class.settings.php:182 tags/1.0.0/includes/class.settings.php:182
+#: tags/1.0.2/includes/class.settings.php:182
+#: tags/1.0.3/includes/class.settings.php:182
+#: tags/1.0.4/includes/class.settings.php:182
+#: trunk/includes/class.settings.php:182
+msgid "Type of Encryption"
+msgstr ""
+
+#: includes/class.settings.php:193 tags/1.0.0/includes/class.settings.php:193
+#: tags/1.0.2/includes/class.settings.php:193
+#: tags/1.0.3/includes/class.settings.php:193
+#: tags/1.0.4/includes/class.settings.php:193
+#: trunk/includes/class.settings.php:193
+msgid "SMTP Port"
+msgstr ""
+
+#: includes/class.settings.php:194 tags/1.0.0/includes/class.settings.php:194
+#: tags/1.0.2/includes/class.settings.php:194
+#: tags/1.0.3/includes/class.settings.php:194
+#: tags/1.0.4/includes/class.settings.php:194
+#: trunk/includes/class.settings.php:194
+msgid "Default port: 25, SSL: 465, TLS: 587"
+msgstr ""
+
+#: includes/class.settings.php:201 tags/1.0.0/includes/class.settings.php:201
+#: tags/1.0.2/includes/class.settings.php:201
+#: tags/1.0.3/includes/class.settings.php:201
+#: tags/1.0.4/includes/class.settings.php:201
+#: trunk/includes/class.settings.php:201
+msgid "SMTP Authentication"
+msgstr ""
+
+#: includes/class.settings.php:211 tags/1.0.0/includes/class.settings.php:211
+#: tags/1.0.2/includes/class.settings.php:211
+#: tags/1.0.3/includes/class.settings.php:211
+#: tags/1.0.4/includes/class.settings.php:211
+#: trunk/includes/class.settings.php:211
+msgid "SMTP Username"
+msgstr ""
+
+#: includes/class.settings.php:217 tags/1.0.0/includes/class.settings.php:217
+#: tags/1.0.2/includes/class.settings.php:217
+#: tags/1.0.3/includes/class.settings.php:217
+#: tags/1.0.4/includes/class.settings.php:217
+#: trunk/includes/class.settings.php:217
+msgid "SMTP Password"
+msgstr ""
+
+#: includes/class.settings.php:223 tags/1.0.0/includes/class.settings.php:223
+#: tags/1.0.2/includes/class.settings.php:223
+#: tags/1.0.3/includes/class.settings.php:223
+#: tags/1.0.4/includes/class.settings.php:223
+#: trunk/includes/class.settings.php:223
+msgid "<strong>Test Email:</strong> Maybe you can click <a href=\""
+msgstr ""
+
+#: includes/class.settings.php:258 tags/1.0.0/includes/class.settings.php:258
+#: tags/1.0.2/includes/class.settings.php:258
+#: tags/1.0.3/includes/class.settings.php:258
+#: tags/1.0.4/includes/class.settings.php:258
+#: trunk/includes/class.settings.php:258
+msgid "ClassicPlus Settings"
+msgstr ""
+
+#: includes/class.settings.php:258 tags/1.0.0/includes/class.settings.php:258
+#: tags/1.0.2/includes/class.settings.php:258
+#: tags/1.0.3/includes/class.settings.php:258
+#: tags/1.0.4/includes/class.settings.php:258
+#: trunk/includes/class.settings.php:258
+msgid "ClassicPlus"
+msgstr ""
+
+#: includes/class.settings.php:264 tags/1.0.0/includes/class.settings.php:264
+#: tags/1.0.0/views/settings.php:2 tags/1.0.2/includes/class.settings.php:264
+#: tags/1.0.2/views/settings.php:2 tags/1.0.3/includes/class.settings.php:264
+#: tags/1.0.3/views/settings.php:2 tags/1.0.4/includes/class.settings.php:264
+#: tags/1.0.4/views/settings.php:2 trunk/includes/class.settings.php:264
+#: trunk/views/settings.php:2 views/settings.php:2
+msgid "Settings"
+msgstr ""
+
+#: libs/SettingsAPI.php:376 tags/1.0.0/libs/SettingsAPI.php:376
+#: tags/1.0.2/libs/SettingsAPI.php:376 tags/1.0.3/libs/SettingsAPI.php:376
+#: tags/1.0.4/libs/SettingsAPI.php:376 trunk/libs/SettingsAPI.php:376
+msgid "Choose File"
+msgstr ""
+
+#: tags/1.0.0/views/documents.php:5 tags/1.0.2/views/documents.php:5
+#: tags/1.0.3/views/documents.php:5 tags/1.0.4/views/documents.php:5
+#: trunk/views/documents.php:5 views/documents.php:5
+msgid "New document"
+msgstr ""
+
+#: tags/1.0.0/views/documents.php:59 tags/1.0.0/views/documents.php:96
+#: tags/1.0.2/views/documents.php:59 tags/1.0.2/views/documents.php:96
+#: tags/1.0.3/views/documents.php:59 tags/1.0.3/views/documents.php:96
+#: tags/1.0.4/views/documents.php:59 tags/1.0.4/views/documents.php:96
+#: trunk/views/documents.php:59 trunk/views/documents.php:96
+#: views/documents.php:59 views/documents.php:96
+msgid "No results found."
+msgstr ""
+
+#: tags/1.0.0/views/documents.php:73 tags/1.0.0/views/documents.php:102
+#: tags/1.0.2/views/documents.php:73 tags/1.0.2/views/documents.php:102
+#: tags/1.0.3/views/documents.php:73 tags/1.0.3/views/documents.php:102
+#: tags/1.0.4/views/documents.php:73 tags/1.0.4/views/documents.php:102
+#: trunk/views/documents.php:73 trunk/views/documents.php:102
+#: views/documents.php:73 views/documents.php:102
+msgid "Title"
+msgstr ""
+
+#: tags/1.0.0/views/documents.php:74 tags/1.0.0/views/documents.php:103
+#: tags/1.0.2/views/documents.php:74 tags/1.0.2/views/documents.php:103
+#: tags/1.0.3/views/documents.php:74 tags/1.0.3/views/documents.php:103
+#: tags/1.0.4/views/documents.php:74 tags/1.0.4/views/documents.php:103
+#: trunk/views/documents.php:74 trunk/views/documents.php:103
+#: views/documents.php:74 views/documents.php:103
+msgid "ID"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "ClassicPlus To Enable Classic Functions"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/classic-plus/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A plug-in can enable all classic functions, and also contains some practical "
+"functions"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Lzw."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://lzwdot.com/"
+msgstr ""
